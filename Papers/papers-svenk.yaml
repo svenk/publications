@@ -1,0 +1,109 @@
+# This is a YAML file of the paper lists.
+# could also be a bibtex file.
+
+---
+
+title: Geometric model of black hole quantum <i>N</i>-portrait, extradimensions and thermodynamics
+authors:
+  - Antonia M. Frassino
+  - Sven Köppel
+  - Piero Nicolini
+date: April 12, 2016
+inspire: http://inspirehep.net/record/1445108
+arxiv: 1604.03263
+arxiv_suffix: "[gr-qc]"
+DOI: 10.3390/e18050181
+labels:
+  - peer-reviewed
+
+---
+
+title: Generalized uncertainty principle and extra dimensions
+authors:
+  - Sven Köppel
+  - Marco Knipfer
+  - Maximilano Isi
+  - Jonas Mureika
+  - Piero Nicolini
+date: March 13, 2017
+inspire: http://inspirehep.net/record/1517550
+conference: http://inspirehep.net/record/1356343
+DOI: 10.1007/978-3-319-94256-8_16
+arxiv: 1703.05222
+arxiv_suffix: "[hep-th]"
+labels:
+  - proceeding
+  - peer-reviewed
+
+---
+
+title: A strongly hyperbolic first-order CCZ4 formulation of the Einstein equations and its solution with discontinuous Galerkin schemes
+authors:
+  - Michael Dumbser
+  - Federico Guercilena
+  - Sven Köppel
+  - Luciano Rezzolla
+  - Olindo Zanotti
+date: July 31, 2017
+inspire: https://inspirehep.net/record/1613645
+DOI: 10.1103/PhysRevD.97.084053
+arxiv: 1707.09910
+arxiv_suffix: "[gr-qc]"
+labels:
+  - peer-reviewed
+
+---
+
+title: Towards an exascale code for GRMHD on dynamical spacetimes
+authors:
+  - Sven Köppel
+date: Nov 01, 2017
+inspire: https://inspirehep.net/record/1637568
+DOI: 10.1088/1742-6596/1031/1/012017
+arxiv: 1711.08221
+arxiv_suffix: "[gr-qc]"
+labels:
+  - proceeding
+  - peer-reviewed
+
+---
+
+title: ADER discontinuous Galerkin schemes for the general relativistic magnetohydrodynamics equations
+authors:
+  - Francesco Fambri
+  - Michael Dumbser
+  - Sven Köppel
+  - Luciano Rezzolla
+  - Olindo Zanotti
+date: Dec 2017
+DOI: 10.1093/mnras/sty734
+arxiv: 1801.02839
+arxiv_suffix: "[gr-qc]"
+labels:
+  - peer-reviewed
+
+---
+
+title:  General-relativistic measurement of the threshold mass to prompt collapse 
+authors:
+  - Sven Köppel
+  - Luke Bovard
+  - Luciano Rezzolla
+date: Dec 2018
+arxiv: 1901.09977
+arxiv_suffix: "[gr-qc]"
+labels:
+  - peer-reviewed
+  - will appear in ApJL
+
+---
+
+title: Generalized Uncertainty Principle and Extra Dimensions
+authors:
+  - Marco Knipfer
+  - Sven Köppel
+  - Piero Nicolini
+date: Mar 2019
+labels:
+  - to be published
+
