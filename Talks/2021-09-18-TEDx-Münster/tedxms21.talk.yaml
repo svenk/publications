@@ -1,0 +1,14 @@
+tedxms21:
+  author: Sven Köppel
+  date: 2021-09-18
+  event: TEDx Münster
+  event_website: https://www.tedxmuenster.de/
+  keywords:
+    - ted
+    - münster
+    - analog
+  place: Lichtenberghaus, Münster
+  material:
+    transcript: Textentwurf TEDx v4.pdf
+  video: https://www.youtube.com/watch?v=gg2YpIIlQpM
+  title: "More Computing Power and Less CO2 Damage – a Plea for Analogue Computers"

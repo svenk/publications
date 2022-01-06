@@ -1,6 +1,38 @@
 # This is a YAML file of the paper lists.
 # could also be a bibtex file.
-papers:
+scientific_publications:
+  - title: POKAL, Kollaboratives Mathematik-E-Learning neu erfunden
+    authors:
+      - Sven Köppel
+      - Claudia Bremer
+      - Detlef Krömker
+    date: "2013"
+    labels:
+      - elearning
+  - title: "BioKemika und MetaSearch: Biochemische Datenbanken und Online-Tools verstehen und anwenden"
+    date: "2012"
+    authors:
+      - Sven Köppel
+      - Andre Bazzone
+      - Wagner Steuer Costa
+      - Preikschat
+    labels:
+      - elearning
+    url: https://www.uni-hamburg.de/elearning/hamburger-elearning-magazin-04.pdf
+  - title:  Ultraviolet improved black holes
+    labels:
+      - hep
+      - quantum-gravity
+      - thesis
+      - master thesis
+    authors:
+      - Sven Köppel
+    URN: "urn:nbn:de:hebis:30:3-470198"
+    date: Dec 2014
+    links:
+      - https://github.com/svenk/publications/blob/master/Thesis/Sven-Koeppel-master-thesis-Ultraviolet-improved-black-holes.pdf
+      - http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/47019
+      - http://sven.köppel.org/uni/ws1314/Masterarbeit/Master-Thesis/
   - title: Geometric model of black hole quantum <i>N</i>-portrait, extradimensions and thermodynamics
     authors:
       - Antonia M. Frassino
@@ -8,10 +40,12 @@ papers:
       - Piero Nicolini
     date: April 12, 2016
     inspire: http://inspirehep.net/record/1445108
-    arxiv: 1604.03263
+    arxiv: "1604.03263"
     arxiv_suffix: "[gr-qc]"
     DOI: 10.3390/e18050181
     labels:
+      - hep
+      - quantum-gravity
       - peer-reviewed
   - title: Generalized uncertainty principle and extra dimensions
     authors:
@@ -24,10 +58,27 @@ papers:
     inspire: http://inspirehep.net/record/1517550
     conference: http://inspirehep.net/record/1356343
     DOI: 10.1007/978-3-319-94256-8_16
-    arxiv: 1703.05222
+    arxiv: "1703.05222"
     arxiv_suffix: "[hep-th]"
     labels:
+      - hep
+      - quantum-gravity
       - proceeding
+      - peer-reviewed
+  - title: Generalized Uncertainty Principle and Black Holes in Higher Dimensional Self-Complete Gravity
+    authors:
+      - Sven Köppel
+      - Marco Knipfer
+      - Jonas Mureika
+      - Piero Nicolini
+    date: Aug 2019
+    arxiv: "1905.03233"
+    DOI: 10.1088/1475-7516/2019/08/008
+    inspire: https://inspirehep.net/literature/1733875
+    labels:
+      - hep
+      - quantum-gravity
+      - quantum-gravity
       - peer-reviewed
   - title: A strongly hyperbolic first-order CCZ4 formulation of the Einstein equations and its solution with discontinuous Galerkin schemes
     authors:
@@ -39,9 +90,11 @@ papers:
     date: July 31, 2017
     inspire: https://inspirehep.net/record/1613645
     DOI: 10.1103/PhysRevD.97.084053
-    arxiv: 1707.09910
+    arxiv: "1707.09910"
     arxiv_suffix: "[gr-qc]"
     labels:
+      - hep
+      - astrophysics
       - peer-reviewed
   - title: Towards an exascale code for GRMHD on dynamical spacetimes
     authors:
@@ -49,7 +102,7 @@ papers:
     date: Nov 01, 2017
     inspire: https://inspirehep.net/record/1637568
     DOI: 10.1088/1742-6596/1031/1/012017
-    arxiv: 1711.08221
+    arxiv: "1711.08221"
     arxiv_suffix: "[gr-qc]"
     labels:
       - proceeding
@@ -63,27 +116,97 @@ papers:
       - Olindo Zanotti
     date: Dec 2017
     DOI: 10.1093/mnras/sty734
-    arxiv: 1801.02839
+    arxiv: "1801.02839"
     arxiv_suffix: "[gr-qc]"
     labels:
+      - hep
+      - astrophysics
       - peer-reviewed
-  - title:  General-relativistic measurement of the threshold mass to prompt collapse 
+  - title: A General-relativistic Determination of the Threshold Mass to Prompt Collapse in Binary Neutron Star Mergers
     authors:
       - Sven Köppel
       - Luke Bovard
       - Luciano Rezzolla
-    date: Dec 2018
-    arxiv: 1901.09977
+    date: Feb 2019
+    arxiv: "1901.09977"
     arxiv_suffix: "[gr-qc]"
+    DOI: 10.3847/2041-8213/ab0210
+    inspire: https://inspirehep.net/literature/1717519
     labels:
       - peer-reviewed
-      - will appear in ApJL
-  - title: Generalized Uncertainty Principle and Extra Dimensions
+      - hep
+      - astrophysics
+  - title: "ExaHyPE: An Engine for Parallel Dynamically Adaptive Simulations of Wave Problems"
     authors:
-      - Marco Knipfer
-      - Sven Köppel
-      - Piero Nicolini
-    date: Mar 2019
+      - Reinarz
+      - Charrier
+      - Bader
+      - Bovard
+      - Duru
+      - Fambri
+      - Gabriel
+      - Gallard
+      - Köppel
+      - Krenz
+      - Rannabauer
+      - Rezzolla
+      - Samfass
+      - Tavelli
+      - Weinzerl
+    arxiv: "1905.07987"
+    date: May 2020
+    DOI: 10.1016/j.cpc.2020.107251
     labels:
-      - to be published
-
+      - peer-reviewed
+      - hep
+      - astrophysics
+  - title: "High-order methods in fully general-relativistic hydrodynamics & magnetohydrodynamics"
+    date: Jun 2019
+    authors:
+       - Sven Köppel
+    labels:
+       - hep
+       - astrophysics
+       - thesis
+       - phd thesis
+       - numerical relavitiy
+       - quantum gravity
+    URN: "urn:nbn:de:hebis:30:3-507282"
+    links:
+       - https://github.com/svenk/publications/blob/master/Thesis/phdthesis-Sven-Koeppel.pdf
+       - http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/50728
+       - https://github.com/svenk/phdthesis
+  - title: About using analog computers in today's largest computational challenges
+    authors:
+       - Sven Köppel
+       - Bernd Ulmann
+       - Lars Heimann
+       - Dirk Killat
+    arxiv: "2102.07268"
+    DOI: 10.5194/ars-19-105-2021
+    date: Feb 2021
+    labels:
+       - analog
+       - proceeding
+       - peer-reviewed
+  - title: Analog Computing for Molecular Dynamics
+    authors:
+       - Sven Köppel
+       - Alexandra Krause
+       - Bernd Ulmann
+    date: July 2021
+    arxiv: "2107.06283"
+    labels:
+       - analog
+       - preprint
+  - title: Open Hardware Analog Computer for Education &mdash; Design and Application
+    DOI: 10.23919/IEEECONF54431.2021.9598447
+    date: Sept 2021
+    labels:
+       - analog
+       - proceeding
+       - peer-reviewed
+    authors:
+       - Bernd Ulmann
+       - Sven Köppel
+       - Dirk Killat
