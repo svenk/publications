@@ -4,10 +4,24 @@ podcast_qc_computing_machines:
     - Sven Köppel
   date: 2022-01-31
   event: Podcast "Computing Machines" von Luca Moczko mit Gast Sven Köppel
-  link: https://open.spotify.com/episode/0ekHBRXddwZCLE0LF4LkI9?si=8gNe2KWJTVWCntZ6AP8dHQ
+  link: https://open.spotify.com/episode/0ekHBRXddwZCLE0LF4LkI9
   languge: de
   keywords:
     - podcast
     - analog
     - spotify
   title: "Was sind Quantencomputer?"
+
+podcast2_qc_computing_machines:
+  author:
+    - Luca Moczko
+    - Sven Köppel
+  date: 2022-04-10
+  event: Podcast "Computing Machines" von Luca Moczko mit Gast Sven Köppel
+  link: https://open.spotify.com/episode/1M3SHJ8qDZyhlZnOEWxjzM
+  languge: de
+  keywords:
+    - podcast
+    - analog
+    - spotify
+  title: "Die Rolle der Computersimulationen in der Wissenschaft"
