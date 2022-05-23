@@ -1,0 +1,18 @@
+gpn20:
+  author: Sven Köppel
+  date: 2022-05-21
+  event: Gulaschprogrammiernacht 2022 (GPN20)
+  event_website: https://entropia.de/GPN20
+  keywords:
+    - karlsruhe
+    - ccc
+    - gulaschprogrammiernacht
+    - analog
+  place: Staatliche Hochschule für Gestaltung (GPN20)
+  material:
+    infoletter: GPN THAT Infozettel.odt
+    voc3c: https://media.ccc.de/v/gpn20-50-wie-hackt-man-einen-analogrechner
+  video: https://www.youtube.com/watch?v=2TMBMA2FLXw
+  slides: 2022-05-21-GPN20-Karlsruhe.pdf
+  sources: 2022-05-21-GPN20-Karlsruhe.odp
+  title: "Wie hackt man einen Analogrechner – Alles über die zukünftigen kontinuierlichen Computer"
