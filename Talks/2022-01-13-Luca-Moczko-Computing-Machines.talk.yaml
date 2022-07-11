@@ -25,3 +25,32 @@ podcast2_qc_computing_machines:
     - analog
     - spotify
   title: "Die Rolle der Computersimulationen in der Wissenschaft"
+
+podcast3_qc_computing_machines:
+  author:
+    - Luca Moczko
+    - Sven Köppel
+  date: 2022-05-29
+  event: Podcast "Computing Machines" von Luca Moczko mit Gast Sven Köppel
+  link: https://open.spotify.com/episode/0OI9qnJ4mbWWmDt4zGd8zW
+  languge: de
+  keywords:
+    - podcast
+    - analog
+    - spotify
+  title: "Software Antipatterns"
+
+podcast4_qc_computing_machines:
+  author:
+    - Luca Moczko
+    - Sven Köppel
+  date: 2022-06-28
+  event: Podcast "Computing Machines" von Luca Moczko mit Gast Sven Köppel
+  link: https://open.spotify.com/episode/0quGnOPsayGulkyLMQXHv0
+  languge: de
+  keywords:
+    - podcast
+    - analog
+    - spotify
+  title: "Beendet künstliche Intelligenz die »Diktatur« der Programmierenden?"
+  
