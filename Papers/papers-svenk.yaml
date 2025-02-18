@@ -210,3 +210,27 @@ scientific_publications:
        - Bernd Ulmann
        - Sven Köppel
        - Dirk Killat
+  - title: Solving Partial Differential Equations with Monte Carlo / Random Walk on an Analog-Digital Hybrid Computer
+    arxiv: "2309.05598"
+    date: Sept 2023
+    labels:
+       - analog
+       - proceeding
+       - peer-reviewed
+    authors:
+       - Dirk Killat
+       - Sven Köppel
+       - Bernd Ulmann
+       - Lucas Wetzel
+  - title: Hybrid integrators with predictive overload estimation for analog computers and continuous-time ΔΣ modulators
+    DOI: "10.5194/ars-21-89-2023"
+    date: Dec 2023
+    labels:
+       - analog
+       - proceeding
+       - peer-reviewed
+    authors:
+       - Dirk Killat
+       - Bernd Ulmann
+       - Sven Köppel
+
