@@ -1,0 +1,17 @@
+podcast:
+  author:
+    - Benjamin Hagemann
+    - dj-spock
+    - Sven Köppel
+  date: 2025-04-25
+  event: "Radio Darmstadt: Sendung C-RadaR des CCC Darmstadt"
+  link: https://www.c-radar.de/
+  # genauerer Link fehlt noch
+  languge: de
+  keywords:
+    - podcast
+    - analog
+    - Radio
+    - outreach
+  title: "Radiobeitrag zum Analogienrechnen"
+

@@ -1,0 +1,14 @@
+p2c25:
+  author: Sven Köppel
+  date: 2025-07-14
+  event: PC2 Seminar
+  event_website: https://pc2.uni-paderborn.de/
+  keywords:
+    - analog
+    - supercomputing
+    - quantum computing
+    - seminar
+  place: Paderborn
+  sources: "2025-07-14 Analog FPGA Paderborn SK.odp"
+  slides: "2025-07-14 Analog FPGA Paderborn SK.pdf"
+  title: "Analog architectures on FPGAs and ASICs"

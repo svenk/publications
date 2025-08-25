@@ -1,0 +1,16 @@
+ism24:
+  authors:
+    - Lucas Wetzel
+    - Sven Köppel
+    - Shrish Roy
+  date: 2024-04-18
+  event: International Workshop on Ising Machines
+  event_website: https://www.petaspin.com/isingmachines2024/
+  keywords:
+    - analog
+    - ising
+    - quantum computing
+    - conference
+  place: Messina, Italy
+  slides: "2024-04-18-ISM24 Anabrid Joined.pdf"
+  title: "Simple Ising machines for educational and research purposes"

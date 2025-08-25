@@ -177,6 +177,7 @@ scientific_publications:
        - http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/50728
        - https://github.com/svenk/phdthesis
   - title: About using analog computers in today's largest computational challenges
+    note: published in a Special Issue of the open-access journal "Advances in Radio Science"
     authors:
        - Sven Köppel
        - Bernd Ulmann
@@ -200,6 +201,7 @@ scientific_publications:
        - analog
        - preprint
   - title: Open Hardware Analog Computer for Education &mdash; Design and Application
+    note: IEEE Proceeding
     DOI: 10.23919/IEEECONF54431.2021.9598447
     date: Sept 2021
     labels:
@@ -233,4 +235,3 @@ scientific_publications:
        - Dirk Killat
        - Bernd Ulmann
        - Sven Köppel
-

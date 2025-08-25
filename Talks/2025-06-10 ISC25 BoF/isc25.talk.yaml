@@ -1,0 +1,14 @@
+isc25:
+  author: Sven Köppel
+  date: 2025-05-10
+  event: International Supercomputing Conference 2025 (ISC HPC)
+  event_website: https://isc-hpc.com/
+  keywords:
+    - analog
+    - supercomputing
+    - quantum computing
+    - conference
+  place: Hamburg
+  sources: "2024-06-10 ISC BoF Anabrid Koeppel.odp"
+  slides: "2024-06-10 ISC BoF Anabrid Koeppel.pdf"
+  title: "Platforms and Architectures for Analog Computing"
