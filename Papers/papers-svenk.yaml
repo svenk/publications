@@ -235,3 +235,30 @@ scientific_publications:
        - Dirk Killat
        - Bernd Ulmann
        - Sven Köppel
+  - title: Kommt die Quantenrevolution des Steuerrechts?
+    note: Veröffentlicht in Rethinking Tax, Verlag Otto Schmidt, RET vom 01.10.2025, Heft 05, Seite 20-22, RET1479842
+    date: Oct 2025
+    labels:
+       - quantum
+       - taxtech
+       - legal
+       - analog
+       - peer-reviewed
+    authors:
+       - Sven Köppel
+    links:
+       - https://research.owlit.de/document/bb1e7550-7739-351d-83ef-1f9916d1d3b9
+       - https://d-nb.info/1189456648
+  - title: "Complexity in machines and minds: A perspective from systems engineering and neuroscience"
+    note: Submitted to Johanna Quandt Young Academy, Series Interdisciplinary Perspectives.
+    date: May 2025
+    labels:
+       - neuroscience
+       - analog
+       - book-chapter
+       - peer-reviewed
+    authors:
+       - Antje Peters
+       - Sven Köppel
+    #links: [not,yet]
+
