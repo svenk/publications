@@ -12,6 +12,12 @@ const here = path.dirname(fileURLToPath(import.meta.url));
 const here_pub = "https://github.com/svenk/publications/tree/master/Talks";
 const talks = [];
 
+const githubTreeDownload = v => {
+  if (typeof v !== "string") return null;
+  const m = v.match(/^https:\/\/github\.com\/([^/]+)\/([^/]+)\/tree\/([^/]+)\/(.+\.(?:pdf|odp|pptx?|key|zip))(?:[?#].*)?$/i);
+  return m && `https://raw.githubusercontent.com/${m[1]}/${m[2]}/${m[3]}/${m[4]}`;
+};
+
 const fixlinks = (t, p) => {
   const b = path.dirname(p);
   const bp = b.replace(here, here_pub);
@@ -22,7 +28,12 @@ const fixlinks = (t, p) => {
   for (const [k, v] of Object.entries(t)) {
     if (Array.isArray(v)) o[k] = v.map(fx);
     else if (v && typeof v === "object") o[k] = fixlinks(v, p);
-    else o[k] = fx(v);
+    //else o[k] = fx(v);
+    else {
+      o[k] = fx(v);
+      const dl = githubTreeDownload(o[k]);
+      if (dl) o[`${k}_download`] = dl;
+    }
   }
   return o;
 };

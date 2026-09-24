@@ -1,0 +1,14 @@
+meshcloud:
+  author: Sven Köppel
+  date: 2026-06-24
+  event: "Meshcloud Con'26"
+  event_website: https://con26.meshcloud.io/
+  keywords:
+    - denktmit
+    - frankfurt
+    - cloud
+    - analog
+  place: Meshcloud Conference 2026
+  slides: "2026-09-03 meshcloud SK.pdf"
+  sources: "2026-09-03 meshcloud SK.odp"
+  title: "Let's build European Clouds on Souvereign Hardware beyond GPUs"
